@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://lh3.googleusercontent.com/-q0RN88btWOg/VnMY0GbLIVI/AAAAAAAAa4U/Ka4oWxGYdM8yGB6P8xZvfN-8rusoJFbmQ/w426-h518/12313754_10153650273294003_6703743962893885705_n.jpg");
       background-size: cover;
       color: white;
     }
     .nav {
-      color: white;
+      color: pink;
     }
     h1 {
       font-size: 70px;
